@@ -93,6 +93,7 @@ Customers with higher credit scores are more likely to be offered loans.
 Mid and high-income bands exhibit greater loan uptake.
 Deposit ownership positively correlates with income and creditworthiness.
 
+
 📈 Interactive Dashboards in Power BI
 The most visually engaging part of this project involved creating interconnected dashboards using Power BI.
 The report contains five key pages, each serving a unique purpose:
@@ -130,6 +131,7 @@ Users can click on a data point in any report and "drill-through" for detailed i
 🖼️ Dashboard Preview Images
 Images of each dashboard page are included in the repository (/images folder) for quick reference.
 
+
 🧰 Tools and Technologies
 Tool	            Usage
 Excel	            Data cleaning and preprocessing
@@ -137,6 +139,7 @@ MySQL       	    Database creation and data storage
 Python            EDA and DB connection
 Google Colab	    Notebook execution on the cloud
 Power BI	        Dashboard and report generation
+
 
 🧪 How to Run This Project
 1. Clone the Repository
@@ -170,6 +173,7 @@ Incorporate a Machine Learning model to predict customer default risk
 Add time-series data for trend-based predictions
 Publish dashboard using Power BI Service for public sharing
 Automate ETL workflow for regular updates
+
 
 🙌 Acknowledgements
 Thanks to open-source contributors and the creators of the tools that made this possible.
