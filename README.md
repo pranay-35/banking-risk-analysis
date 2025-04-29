@@ -161,12 +161,12 @@ Images of each dashboard page are included in the repository (/images folder) fo
 
 🧰 Tools and Technologies
 
-Tool	Usage
-Excel	Data cleaning and preprocessing
-MySQL/PostgreSQL	Database creation and data storage
-Python (Pandas, SQLAlchemy)	EDA and DB connection
-Google Colab	Notebook execution on the cloud
-Power BI	Dashboard and report generation
+Tool	            Usage
+Excel	            Data cleaning and preprocessing
+MySQL       	    Database creation and data storage
+Python            EDA and DB connection
+Google Colab	    Notebook execution on the cloud
+Power BI	        Dashboard and report generation
 
 
 🚀 Future Enhancements
